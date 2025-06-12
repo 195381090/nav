@@ -1398,7 +1398,7 @@ function renderSiteCard(site) {
     <head>
       <meta charset="UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>博客图床 - 精品网址</title>
+      <title>朱跃兵 - 分享代码</title>
       <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet"/>
       <link rel="icon" href="https://www.wangwangit.com/images/head/a.webp" type="image/webp"/>
       <script src="https://cdn.tailwindcss.com"></script>
@@ -1564,7 +1564,7 @@ function renderSiteCard(site) {
       <aside id="sidebar" class="sidebar fixed left-0 top-0 h-full w-64 bg-white shadow-lg z-50 overflow-y-auto mobile-sidebar lg:transform-none transition-all duration-300">
         <div class="p-6">
           <div class="flex items-center justify-between mb-8">
-            <h2 class="text-2xl font-bold text-primary-500">博客图床</h2>
+            <h2 class="text-2xl font-bold text-primary-500">朱跃兵</h2>
             <button id="closeSidebar" class="p-1 rounded-full hover:bg-gray-100 lg:hidden">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
@@ -1638,8 +1638,8 @@ function renderSiteCard(site) {
           <div class="max-w-5xl mx-auto">
             <div class="flex flex-col md:flex-row items-center justify-center">
               <div class="text-center">
-                <h1 class="text-3xl md:text-4xl font-bold mb-2">博客图床</h1>
-                <p class="text-primary-100 max-w-xl">各类博客图床，分析精彩内容</p>
+                <h1 class="text-3xl md:text-4xl font-bold mb-2">老朱的世界</h1>
+                <p class="text-primary-100 max-w-xl">各类代码命令，分析精彩内容</p>
               </div>
             </div>
           </div>
@@ -1663,7 +1663,7 @@ function renderSiteCard(site) {
                       })
                       .catch(console.error)
               </script>
-              <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">疏影横斜水清浅，暗香浮动月黄昏。</a></div>
+             
             </div>
           </div>
           
