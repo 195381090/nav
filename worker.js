@@ -1398,7 +1398,7 @@ function renderSiteCard(site) {
     <head>
       <meta charset="UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>朱跃兵 - 分享代码</title>
+      <title>朱氏家族 - 精品网址</title>
       <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet"/>
       <link rel="icon" href="https://www.wangwangit.com/images/head/a.webp" type="image/webp"/>
       <script src="https://cdn.tailwindcss.com"></script>
@@ -1638,8 +1638,8 @@ function renderSiteCard(site) {
           <div class="max-w-5xl mx-auto">
             <div class="flex flex-col md:flex-row items-center justify-center">
               <div class="text-center">
-                <h1 class="text-3xl md:text-4xl font-bold mb-2">老朱的世界</h1>
-                <p class="text-primary-100 max-w-xl">各类代码命令，分析精彩内容</p>
+                <h1 class="text-3xl md:text-4xl font-bold mb-2">朱氏家族</h1>
+                <p class="text-primary-100 max-w-xl">各类生活技巧，分析精彩人生</p>
               </div>
             </div>
           </div>
