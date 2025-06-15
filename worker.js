@@ -1,6 +1,6 @@
 
 /**
- * 备用随机 SVG 图标 - 优化设计  视频：https://www.youtube.com/watch?v=4AFDqQZpED4
+ * 备用随机 SVG 图标 - 优化设计  视频：https://www.youtube.com/watch?v=4AFDqQZpED4  github仓库：https://github.com/195381090/nav
  */
 export const fallbackSVGIcons = [
   `<svg width="80" height="80" viewBox="0 0 24 24" fill="url(#gradient1)" xmlns="http://www.w3.org/2000/svg">
