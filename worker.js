@@ -1,6 +1,6 @@
 
 /**
- * 备用随机 SVG 图标 - 优化设计  视频：https://www.youtube.com/watch?v=4AFDqQZpED4  Github仓库：https://github.com/195381090/nav
+ * 备用随机 SVG 图标 - 优化设计  视频：https://www.youtube.com/watch?v=4AFDqQZpED4
  */
 export const fallbackSVGIcons = [
   `<svg width="80" height="80" viewBox="0 0 24 24" fill="url(#gradient1)" xmlns="http://www.w3.org/2000/svg">
@@ -1398,7 +1398,7 @@ function renderSiteCard(site) {
     <head>
       <meta charset="UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>朱氏家族 - 精品网址</title>
+      <title>朱跃兵 - 分享代码</title>
       <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet"/>
       <link rel="icon" href="https://www.wangwangit.com/images/head/a.webp" type="image/webp"/>
       <script src="https://cdn.tailwindcss.com"></script>
@@ -1638,7 +1638,7 @@ function renderSiteCard(site) {
           <div class="max-w-5xl mx-auto">
             <div class="flex flex-col md:flex-row items-center justify-center">
               <div class="text-center">
-                <h1 class="text-3xl md:text-4xl font-bold mb-2">朱氏家族</h1>
+                <h1 class="text-3xl md:text-4xl font-bold mb-2">朱氏家族门户</h1>
                 <p class="text-primary-100 max-w-xl">各类生活技巧，分析精彩人生</p>
               </div>
             </div>
@@ -1710,7 +1710,7 @@ function renderSiteCard(site) {
         <!-- 页脚 -->
         <footer class="bg-white py-8 px-6 mt-12 border-t border-gray-200">
           <div class="max-w-5xl mx-auto text-center">
-            <p class="text-gray-500">© ${new Date().getFullYear()} 心路 | 愿你在此找到方向</p>
+            <p class="text-gray-500">© ${new Date().getFullYear()} 创造辉煌盛世 | 延续精彩人生</p>
             <div class="mt-4 flex justify-center space-x-6">
               <a href="https://xuer.us.kg/" target="_blank" class="text-gray-400 hover:text-primary-500 transition-colors">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
